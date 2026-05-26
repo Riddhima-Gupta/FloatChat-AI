@@ -2,7 +2,7 @@
 
 FloatChat AI is an intelligent oceanographic data assistant that helps scientists explore and analyze data from oceanographic floats. Built with **Streamlit** and powered by **FastAPI + AI models**, it provides both scientific explanations and interactive visualizations of ocean data.
 
-🌐 Curious to see FloatChat AI at work? Visit the live app and explore ocean data yourself: [Launch FloatChat](<https://riddhima-gupta-new-float-app-o86832.streamlit.app/>)
+🌐 Curious to see FloatChat AI at work? Visit the live app and explore ocean data yourself: [Launch FloatChat](<https://float-chat-app-o86832.streamlit.app/>)
 
 ---
 
